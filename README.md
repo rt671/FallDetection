@@ -1,4 +1,7 @@
 # Fall Detection and Alert System
+
+**Research Paper:** [FallDetection_Report.pdf](https://github.com/rt671/FallDetection/files/11871933/FallDetection_Report.pdf)
+
 Fall is an event that can prove to be highly dangerous
 for the elderly, and it can even be fatal if not addressed
 immediately. The risk of falling is especially high among
